@@ -32,8 +32,8 @@ def upload_file():
     # SFTP server details
     host = 'eu-central-1.sftpcloud.io'
     port = 22
-    username = '3c4b8be3ac7e4db99d5f33e7b91f8769'
-    password = '1qNtMWFcFMnD0GEvSFoih6ETExVOItnc'
+    username = '1dbc3f49c0f8487ebd2fc7c5090dc8cf'
+    password = 'DwRPUOjHj9IdOLGuobiyMcoyc2WbDZgG'
 
     # Remote directory details
     remote_base_dir = '..'
